@@ -30,7 +30,7 @@ The Creative Common license applied here forbids commercial use. However, we don
 ![exploded view](images/0_mit-captivates_exploded.png)
 - CAD was produced in PTC Creo Parametric 6.0
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Top-of-page)
 
 ---
 
@@ -46,7 +46,7 @@ Surface files in STEP format are also in this repository so that they can be mod
 
 [VSP Global Innovation Center](https://www.vspglobal.com/cms/about-us/innovation.html)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Top-of-page)
 
 ---
 
@@ -195,13 +195,15 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 
 * d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Top-of-page)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- [Adam Oranchak](<Adam.Oranchak@vsp.com>)
+- Designer / Engineer
+- VSP Global Innovation Center
 
-[Back To The Top](#read-me-template)
+
+[Back To The Top](#Top-of-page)
