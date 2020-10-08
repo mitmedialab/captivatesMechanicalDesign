@@ -201,7 +201,7 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 
 ## Author Info
 
-- [Adam Oranchak](<Adam.Oranchak@vsp.com>)
+- [Adam Oranchak](mailto:Adam.Oranchak@vsp.com)
 - Designer / Engineer
 - VSP Global Innovation Center
 
