@@ -21,7 +21,7 @@ You're sections headers will be used to reference location of destination.
 
 Captivates is normal appearing eyewear with seamlessly integrated physiological sensors. It's the result of a collaboration with Joe Paradiso's **Responsive Environments** students, David Bradford Ramsay and Patrick Chwalek, and VSP's Global Innovation Center. This repository contains CAD files for the physical design.
 
-The Creative Common license applied here forbids commercial use. However, we don't want to discourage that possibility but would like to be part of that conversation. Perhaps we can provide assistance. Feel free to contact us at [VSP Global Innovation Center.](<a href="mailto:GlobalInnovationCenter@vsp.com">)
+The Creative Common license applied here forbids commercial use. However, we don't want to discourage that possibility but would like to be part of that conversation. Perhaps we can provide assistance. Feel free to contact us at [VSP Global Innovation Center.](mailto:GlobalInnovationCenter@vsp.com")
 
 ---
 
